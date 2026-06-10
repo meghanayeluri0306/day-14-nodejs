@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.com/meghanayeluri0306/day-14-nodejs",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,4 +15,5 @@
   "dependencies": {
     "express": "^5.2.1"
   }
+  
 }
